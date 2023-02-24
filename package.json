@@ -1,0 +1,19 @@
+{
+  "name": "bday-present",
+  "version": "1.0.0",
+  "description": "A package to send data that can be opened at the same time in real life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbelmar/bday-present.git"
+  },
+  "author": "Tomás Belmar da Costa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tbelmar/bday-present/issues"
+  },
+  "homepage": "https://github.com/tbelmar/bday-present#readme"
+}
